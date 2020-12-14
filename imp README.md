@@ -3,6 +3,7 @@ I have a project which consist of 3 micro services written in different programm
 1) A frontend services written in JavaScript
 2) A backend service written in java
 3) A message processing service in python.
+
 Frontend service is to run on the customer browser. It provides URL of the backend service, so  the browser knows how to connect to backend. The backend service then connects with the  Message processing service for some internal message processing.
 Every project contains Dockerfile which can be used for building docker images.
 
