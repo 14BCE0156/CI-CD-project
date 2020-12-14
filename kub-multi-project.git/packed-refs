@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+1272628b5b804b23446cf4700a917d0d47415dbc refs/heads/dependabot/npm_and_yarn/sa-frontend/handlebars-4.7.6
+69d3ad11b04b098a65b542cd3f126a2734032820 refs/heads/dependabot/npm_and_yarn/sa-frontend/http-proxy-1.18.1
+7589411e665852dfaf11cea5fd82ebea0e9b7d20 refs/heads/dependabot/pip/sa-logic/sa/flask-1.0
+e0af5d3a79de32914a3e5f2c3891964644372871 refs/heads/development
+f0a778512bdf900b80823b17e69e251dc9fa0328 refs/heads/master
+2a9a94a044875ee77f70007e3d4109e2c87e7093 refs/heads/prod
+e0af5d3a79de32914a3e5f2c3891964644372871 refs/heads/staging
